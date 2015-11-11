@@ -53,7 +53,7 @@ SYNTAX:
 ABOUT  WSP MVVVC  Framework
 ------------------------------
 
-The   Insurance   Management   Framework   consists    of
+The     WSP MVVVC  Framework  consists    of
 
 Modules  like
 

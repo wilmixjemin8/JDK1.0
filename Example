@@ -1,0 +1,217 @@
+
+
+---------------------------------------------------------------------------------
+
+
+Example1:  Consider  Life  Insurance  Example  using  Wsp with  MVVVC Pattern
+
+----------------------------------------------------------------------------
+
+a)insur.html
+----------
+<html>
+<body>
+<h1>Life InSurance  inc,  copyright 2015</h1>
+
+<form action="http://localhost:8080/insurance.Wsp" method="get" >
+<p>Name : <input type="text" name="names" size="25" /></p>
+<p>Age : <input type="text" name="age" sixe="5"/></p>
+<p>Insured Amount : <input type="text" name="iamt" sixe="15"/></p>
+<p>Year : <input type="text" name="year" sixe="7"/></p>
+<p>Total Amount : <input type="text" name="tamt" sixe="16"/></p>
+<input type="submit" value="CALCULATE" />
+</form>
+
+</body>
+</html>
+
+
+
+b)  main.Wsp
+    --------  
+
+
+
+<JAVA>
+<PACK>
+<code>
+public  class main
+
+{
+
+public  static  void main(String  args[])
+
+{
+try
+{
+HTML.displayhtml("insur.html");
+
+HTML.displayhtml("insur.html");
+}
+
+catch (Exception e)
+
+{
+
+
+}
+
+}
+
+
+
+
+
+
+} 
+
+
+</code>
+</JAVA>
+
+
+
+
+c) insurance.Wsp
+----------------
+
+<JAVA>
+<PACK>
+<code>
+
+public  class  insurance
+
+{
+public  static  void main(String  args[]) throws  Exception
+
+{
+String  ar1="";
+
+String  ar="";
+String  ar2="";
+String  ar3="";
+String  ar4="";
+ar=hitcount.requestParam(0);ar1=hitcount.requestParam(1);
+ar2=hitcount.requestParam(2);
+ar3=hitcount.requestParam(3);
+ar4=hitcount.requestParam(4);
+
+hitcount.SplitParam(ar);
+hitcount.SplitParam(ar1);hitcount.SplitParam(ar2);
+hitcount.SplitParam(ar3);
+hitcount.SplitParam(ar4);
+
+
+
+String t5 = hitcount.params.get(hitcount.params.size()-13).toString();
+
+String t4 = hitcount.params.get(hitcount.params.size()-10).toString();
+
+String t3 = hitcount.params.get(hitcount.params.size()-7).toString();
+
+String t2 = hitcount.params.get(hitcount.params.size()-4).toString();
+
+String t1 = hitcount.params.get(hitcount.params.size()-1).toString();
+
+
+
+int  age= Integer.parseInt(t4);
+
+int  iamt=Integer.parseInt(t3);
+
+int  year=Integer.parseInt(t2);
+
+ArrayList<Integer>   art1 = new  ArrayList<Integer>();
+
+
+
+art1.add(age);
+art1.add(iamt);
+art1.add(year);
+
+
+System.out.println(" ");
+
+System.out.println(" ");
+
+
+System.out.println("Total  Amt  to  be  payed   is : <input type=text  value="+insurancecontroller.Controller (art1)+">");
+System.out.println(" ");
+
+}
+}
+</code>
+</JAVA>
+
+
+
+Insurance controller: insurancecontroller.Wsp
+-----------------------------------------------
+
+
+<JAVA>
+<PACK>
+<code>
+
+public  class  insurancecontroller
+
+{
+public static  double  Controller (java.util.ArrayList <Integer>  form) {
+
+double s=insurancemodel.Model (form);
+
+return(s);
+}
+
+}
+
+</code>
+</JAVA>
+
+
+Insurance Model: insurancemodel.Wsp
+-----------------------------------------------
+<JAVA>
+<PACK>
+<code>
+
+public  class  insurancemodel
+
+{
+
+static double tamt=0.0;
+public static double  Model (java.util.ArrayList <Integer> model) {
+
+int  age= Integer.parseInt(model.get(0).toString());
+int  iamt= Integer.parseInt(model.get(1).toString());
+int  year= Integer.parseInt(model.get(2).toString());
+System.out.println("age="+age);
+System.out.println("iamt="+iamt);
+System.out.println("year="+year);
+
+
+double  act=1000;
+
+
+if  ((age>20) &&  (age<40))
+{
+act= act/2;
+  tamt+=12.5*iamt*act;
+  
+  }
+else
+{
+act=act/3;
+tamt+=12.5 *iamt*act;
+
+}
+
+
+
+return(tamt);
+}
+}
+
+
+</code>
+</JAVA>

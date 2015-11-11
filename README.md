@@ -65,7 +65,7 @@ c) Supports    MVVVC like  Model   Framework.
 Advantages of  WSP MVVVC  Framework
 ----------------------------------------
 
-A)   It   focus   on  developers    to   learn  only   core  java  Technology
+A)   It   focus   on  developers    to   learn  only   core  JDk1.0  Technology
 
 for  this    framework.
 
@@ -85,11 +85,11 @@ g) Use  of  web.xml  and  set  and  get    methods    are avoided.
 
 h)  Controller  ,Model  ,  View   are  User defined. 
 
-i)  You  can   pass   any  type   of   core  java collections like  ArrayList,  Hashmap,etc
+i)  You  can   pass   any  type   of   core  JDk1.0 collections like  ArrayList,  Hashmap,etc
 
    so    you  can   get  multiple   values   at    the  same   time   at  View3
 
-so  it   is   one   of    the  best    JAVA   framework.   
+so  it   is   one   of    the  best    JDK1.0   framework.   
 
 j)  You  can   perform  many  number  of   Multiple   submits  on  the     same  page
 

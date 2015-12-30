@@ -1,6 +1,6 @@
 # JDK1.0
 ---------
-JDK1.0  is   a  new  generation  of  JAVA technology  focused on interaction  with Spring, struts,WDBAJ$, Jdollar,etc.
+JDK1.0  is   a  new  generation  of  JAVA1.0 technology  focused on interaction  with S@, OPLUS,WDBAJ$, Jdollar,etc.
 
 
 
@@ -11,12 +11,12 @@ Jdk1.0  is a  new  generation  of JAVA  belong  to WSIT field.
 
 JDk1.0   is   invented by  wilmix jemin  j  using CDollar  Technology at year 2015.
 
-It  is  designed  like  java  to interact  with  Struts, Spring , hibernate , AJAX, etc.
+It  is  designed  like  java  to interact  with  Oplus, S@ , H@, etc.
 
 
-But  JAVA  has  more  demerits since  it  is  focused only
+But  JAVA1.0  has  more  demerits since  it  is  focused only
 
-on software  development. SO Jdk1.0  is designed  like JAVA.
+on software  development. SO Jdk1.0  is designed  like JAVA1.0.
 
 so  that  its  can   easily  made   connection   to WDBAJ$  security database.
 
@@ -100,16 +100,16 @@ by   calling    HTML.displayhtml  function..  is  one   of  the  best  advantage
 k)  This  Framework  also   behave   like  AJAX   and  redirects   to  the  same   page....
 
 
-l)It  is  designed  like  java  to interact  with  Struts, Spring , hibernate , AJAX, etc.
+l)It  is  designed  like  java  to interact  with  OPLUS, S@ , H@ , etc.
 
 
-m) SO Jdk1.0  is designed  like JAVA.
+m) SO Jdk1.0  is designed  like JAVA1.0.
 
 so  that  its  can   easily  made   connection   to WDBAJ$  security database.
 
 o) This makes interaction   with JDollar Technology.
 
-Thus JAVA interacts  with  JDollar  thru  JDk1.0 Technology.
+Thus JAVA1.0 interacts  with  JDollar  thru  JDk1.0 Technology.
 
 
 Brief Explanation:
@@ -144,7 +144,7 @@ The    use  of  web.xml   ,   set  and   get  methods   are  avoided   since   w
 
 to   split  the   parameters   in  to  tokens. So  this    framework   is    entirely   different
 
-from  Struts,  spring   framework. But   any  Insurance    project   is  easy  to design
+from  OPLUS,  S@ . But   any  Insurance    project   is  easy  to design
 
 and  it  saves    time   and  cost. This  WSP  Framework  also  provide  interact  with   Struts, Spring , hibernate , AJAX, etc.
 

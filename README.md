@@ -146,7 +146,7 @@ to   split  the   parameters   in  to  tokens. So  this    framework   is    ent
 
 from  OPLUS,  S@ . But   any  Insurance    project   is  easy  to design
 
-and  it  saves    time   and  cost. This  WSP  Framework  also  provide  interact  with   Struts, Spring , hibernate , AJAX, etc.
+and  it  saves    time   and  cost. This  WSP  Framework  also  provide  interact  with   OPLUS, S@ , H@ , etc.
 
 
 

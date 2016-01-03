@@ -7,7 +7,7 @@ JDK1.0  is   a  new  generation  of  JAVA1.0 technology  focused on interaction 
 About Jdk1.0
 -------------
 
-Jdk1.0  is a  new  generation  of JAVA  belong  to WSIT field.
+Jdk1.0  is a  new  generation  of JAVA1.0  belong  to WSIT field.
 
 JDk1.0   is   invented by  wilmix jemin  j  using CDollar  Technology at year 2015.
 
@@ -22,7 +22,7 @@ so  that  its  can   easily  made   connection   to WDBAJ$  security database.
 
 JDk1.0  has   Wsp  which   is known   as  WilmixServerPages(WSP).
 
-WSP  has MVVVC Pattern. It  supports   Multiple  submits  simillar  to AJAX.
+WSP  has MVVVC Pattern. It  supports   Multiple  submits   with  ASYNC  WEBPAGES.
 
 
 
@@ -97,7 +97,7 @@ ie)   one   can    load   many   HTML   forms    in   the  same   page
 
 by   calling    HTML.displayhtml  function..  is  one   of  the  best  advantage  than  any  other  framework....
 
-k)  This  Framework  also   behave   like  AJAX   and  redirects   to  the  same   page....
+k)  This  Framework  also   behave   like  ASYNC  with  multiple  submits(JDK-ASYNC)   and  redirects   to  the  same   page....
 
 
 l)It  is  designed  like  java  to interact  with  OPLUS, S@ , H@ , etc.

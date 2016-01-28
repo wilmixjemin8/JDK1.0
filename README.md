@@ -20,13 +20,16 @@ on software  development. SO Jdk1.0  is designed  like JAVA1.0.
 
 so  that  its  can   easily  made   connection   to WDBAJ$  security database.
 
-JDk1.0  has   Wsp  which   is known   as  WilmixServerPages(WSP).
+JDk1.0  has   Jdk  which   is known   as  JAVA1.0-Developement kit-ServerPages(Jdk).
 
-WSP  has MVVVC Pattern. It  supports   Multiple  submits   with  ASYNC  WEBPAGES.
-
-
+Jdk  has MVVVC Pattern. It  supports   Multiple  submits   with  ASYNC  WEBPAGES.
 
 
+
+
+
+filename.Jdk
+---------------
 
 
 SYNTAX:

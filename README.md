@@ -40,20 +40,18 @@ SYNTAX:
 <code>
 
 
-<! JAVA Logic  code  !>
+<! JAVA1.0 Logic  code  !>
 
 
 
+</JLOGIC>
 
-</code>
+</JDK>
 
-</JAVA>
-
-
-ABOUT  WSP MVVVC  Framework
+ABOUT JDK MVVVC  Framework
 ------------------------------
 
-The     WSP MVVVC  Framework  consists    of
+The     JDK MVVVC  Framework  consists    of
 
 Modules  like
 
@@ -62,7 +60,7 @@ b) Supports  component  like   J2ee.
 c) Supports    MVVVC like  Model   Framework.
 
 
-Advantages of  WSP MVVVC  Framework
+Advantages of  JDK MVVVC  Framework
 ----------------------------------------
 
 A)   It   focus   on  developers    to   learn  only   core  JDk1.0  Technology
@@ -116,7 +114,7 @@ Brief Explanation:
 -----------------------
 
 
-WSP Framework   contains   view1,view2,view3.   View-3   will  get   the  response  data    from  the  
+JDK Framework   contains   view1,view2,view3.   View-3   will  get   the  response  data    from  the  
 
 Insurance  form    where  client   submit  the  data.
 
@@ -146,7 +144,7 @@ to   split  the   parameters   in  to  tokens. So  this    framework   is    ent
 
 from  OPLUS,  S@ . But   any  Insurance    project   is  easy  to design
 
-and  it  saves    time   and  cost. This  WSP  Framework  also  provide  interact  with   OPLUS, S@ , H@ , etc.
+and  it  saves    time   and  cost. This  JDK  Framework  also  provide  interact  with   OPLUS, S@ , H@ , etc.
 
 
 

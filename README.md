@@ -33,20 +33,20 @@ SYNTAX:
 -------
 
 
-<JAVA>
+<JDK>
 
-<PACK>
+<JPACK>
 
-<code>
-
-
-<! JAVA1.0 Logic  code  !>
+<JLOGIC>
 
 
+
+<! JAVA1.0 Logic>
 
 </JLOGIC>
 
 </JDK>
+
 
 ABOUT JDK MVVVC  Framework
 ------------------------------

@@ -1,13 +1,15 @@
+
+
 # JDK1.0
 ---------
-JDK1.0  is   a  new  generation  of  JAVA1.0 technology  focused on interaction  with S@, OPLUS,WDBAJ$, Jdollar,etc.
+JDK1.0  is   a  new  generation  of  JAVA1.0 technology  focused on interaction  with S@, OPLUS,WDBAJ$, JAS,etc.
 
 
 
 About Jdk1.0
 -------------
 
-Jdk1.0  is a  new  generation  of JAVA1.0  belong  to WSIT field.
+Jdk1.0  is a  new  generation  of JAVA1.0  belong  to WRIT field.
 
 JDk1.0   is   invented by  wilmix jemin  j  using CDollar  Technology at year 2015.
 
@@ -108,9 +110,9 @@ m) SO Jdk1.0  is designed  like JAVA1.0.
 
 so  that  its  can   easily  made   connection   to WDBAJ$  security database.
 
-o) This makes interaction   with JDollar Technology.
+o) This makes interaction   with JAS Technology.
 
-Thus JAVA1.0 interacts  with  JDollar  thru  JDk1.0 Technology.
+Thus JAVA1.0 interacts  with  JAS  thru  JDk1.0 Technology.
 
 
 Brief Explanation:
@@ -148,7 +150,5 @@ to   split  the   parameters   in  to  tokens. So  this    framework   is    ent
 from  OPLUS,  S@ . But   any  Insurance    project   is  easy  to design
 
 and  it  saves    time   and  cost. This  JDK  Framework  also  provide  interact  with   OPLUS, S@ , H@ , etc.
-
-
 
 

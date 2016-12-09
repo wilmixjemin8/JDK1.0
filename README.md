@@ -11,7 +11,7 @@ About Jdk1.0
 
 Jdk1.0  is a  new  generation  of JAVA1.0  belong  to WRIT field.
 
-JDk1.0   is   invented by  wilmix jemin  j  using CDollar  Technology at year 2015.
+JDk1.0   is   invented by  wilmix jemin  j  using  JAS  Technology at year 2015.
 
 It  is  designed  like  java  to interact  with  Oplus, S@ , H@, etc.
 
